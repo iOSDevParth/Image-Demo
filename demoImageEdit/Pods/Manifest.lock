@@ -1,0 +1,16 @@
+PODS:
+  - Sharaku (1.0.2)
+
+DEPENDENCIES:
+  - Sharaku
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Sharaku
+
+SPEC CHECKSUMS:
+  Sharaku: c18de569fc99f6e936f46ca812b571826cc658a7
+
+PODFILE CHECKSUM: d9b86d1b62f2cfebeba44bfa50cb14543d7d0b50
+
+COCOAPODS: 1.6.0.beta.2
